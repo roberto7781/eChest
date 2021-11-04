@@ -1,0 +1,15 @@
+{
+    "name": "rober/public_html",
+    "autoload": {
+        "psr-4": {
+            "Rober\\PublicHtml\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "roberto7781",
+            "email": "76868039+roberto7781@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
