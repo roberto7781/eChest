@@ -1,0 +1,9 @@
+register Background: https://cdn.hipwallpaper.com/i/3/45/B9cOR1.jpg
+
+Sidebar: https://bootsnipp.com/snippets/Q0dAX
+
+table: https://colorlib.com/wp/template/fixed-header-table/
+
+Location Icon: https://www.freeiconspng.com/thumbs/location-icon-png/location-icon-map-png--1.png
+
+Product Icon: https://www.pngitem.com/pimgs/m/27-272007_transparent-product-icon-png-product-vector-icon-png.png

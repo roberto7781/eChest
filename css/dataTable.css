@@ -1,0 +1,52 @@
+/* .table-bordered {
+  border: 1px black solid;
+  border-top-width: 0px ;
+}
+.table-bordered thead th, .table-bordered td {
+
+  background-color: #dbf6e9;
+  color: black;
+}
+.table-bordered thead,
+.table-bordered tbody,
+.table-bordered td,
+.table-bordered th {
+  border: 1px black solid;
+}
+.table-bordered tbody {
+  border-right-width: 0px;
+}
+
+.table-bordered th {
+  border-top-width: 0px;
+}
+table.table-bordered.dataTable {
+  border-right-width: 0px;
+  border-top-width: 0px;
+}
+
+table.table-bordered.dataTable th {
+  border-bottom-width: 0px;
+}
+
+
+.dataTable{
+  color: black;
+
+}
+
+.dataTable tr, .dataTable td{
+  font-size: large;
+}
+
+.dataTable th{
+  font-size: larger;
+  font-weight: 400;
+}
+
+table.dataTable tr.odd {
+  background-color: #dbf6e9;;
+}
+table.dataTable tr.even {
+  background-color: #dbf6e9;;
+} */

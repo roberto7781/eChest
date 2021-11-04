@@ -1,0 +1,47 @@
+body{
+  background-image: url("../images/registerBackground.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+input.form-control {
+  outline: 0;
+  border-radius: 0px;
+  border-width: 0 0 1px;
+  border-color: gray;
+  background-color: #9ddfd3;
+}
+
+/* .form-control{
+  color: black;
+}
+
+input:focus::-webkit-input-placeholder { color:transparent; } */
+
+div.form-group {
+  font-family: 'Montserrat', sans-serif;
+  position: relative; /*  make label relate to div  */
+  padding-top: 10px;  /*  make space for label      */
+  margin-top: 30px;
+}
+
+.form-group label{
+  position: absolute;
+  top: 17px;
+  left: 0;
+  transition: .3s;
+  pointer-events: none;
+}
+
+
+input:focus ~ label,
+input:not(:focus):valid ~ label
+{
+  top: -18px;
+  left: 0px;
+  font-size: 14px;
+
+}
+
