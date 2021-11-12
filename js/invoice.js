@@ -1,6 +1,6 @@
 $(document).ready(function () {
 
-      var DOMAIN = "http://localhost/Inventory_Management/public_html";
+      var DOMAIN = "";
 
       var Toast = Swal.mixin({
         toast: true,
